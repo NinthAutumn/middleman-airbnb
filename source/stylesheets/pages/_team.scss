@@ -1,0 +1,24 @@
+#team{
+  height:100vh;
+  h1{
+    font-size: 30px;
+    margin-top:0;
+  }
+  h3{
+    font-size:17px;
+    color:rgba(0,0,0,0.6);
+  }
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  background-image:linear-gradient(0deg, #fff 50%, #F4F4F4 50%);
+  .fa-heart:before{
+    color:red;
+  }
+  .link{
+    text-decoration:none;
+    color:#D2D2D2;
+    font-size:15px;
+  }
+
+}
